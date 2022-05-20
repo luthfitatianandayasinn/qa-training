@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Baca detail</name>
+   <tag></tag>
+   <elementGuidId>847ba5e4-ef77-4519-b62a-1a85e4fbe547</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='service']/div/div/div/div/div[9]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5fd842ac-e687-4a9a-bc77-a13dde54146e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>buku/kitchen/</value>
+      <webElementGuid>3020c048-f391-4b66-94b2-6b053e635293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-xs</value>
+      <webElementGuid>830ad2ed-f27f-461a-bac7-aa86eafeaf07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baca detail</value>
+      <webElementGuid>3d0e0518-9dbf-428f-be0f-2933f4680f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;service&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-12 paddingbot-70&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12 boxbooks&quot;]/a[@class=&quot;btn btn-primary btn-xs&quot;]</value>
+      <webElementGuid>1d1585f1-37a8-4fc1-b0c0-4e70d53b7455</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='service']/div/div/div/div/div[9]/a</value>
+      <webElementGuid>f064d093-b10b-41b8-9297-55011f1549af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Author: Yoshimoto Banana'])[1]/following::a[1]</value>
+      <webElementGuid>f4aa11e9-f71f-43ab-9324-95fef8af2533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kitchen'])[1]/following::a[1]</value>
+      <webElementGuid>e809374e-d4c3-44d2-afe8-3c91d5c9ff5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I Want to Eat Your Pancreas'])[1]/preceding::a[1]</value>
+      <webElementGuid>4ece10bc-4f16-4238-b878-198df6f37f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'buku/kitchen/')])[2]</value>
+      <webElementGuid>2451a119-0fb1-4a43-b7fc-9f83006e4c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/a</value>
+      <webElementGuid>05d83c4f-389c-42ee-a6e4-e04de66244cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'buku/kitchen/' and (text() = 'Baca detail' or . = 'Baca detail')]</value>
+      <webElementGuid>13f75757-e502-421a-b701-55b8f1c8c23c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

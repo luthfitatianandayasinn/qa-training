@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Buat akun</name>
+   <tag></tag>
+   <elementGuidId>ba1a5210-1049-4174-bf81-353b44504f94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view_container']/div/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.ksBjEc.lKxP2d.qfvgSe.FliLIb.uRo0Xe.TrZEUc.t29vte.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe.VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc.VfPpkd-ksKsZd-mWPk3d > span.VfPpkd-vQzf8d</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>620152cc-b554-41f8-853e-0c51865b540e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>V67aGc</value>
+      <webElementGuid>4d3aa54a-572a-4e10-8a5c-7946687309ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-vQzf8d</value>
+      <webElementGuid>372c54eb-76b6-4180-ab16-5f3f60d5ae9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buat akun</value>
+      <webElementGuid>93012571-f748-4cbf-b6b0-a9a9c603d338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view_container&quot;)/div[@class=&quot;zWl5kd&quot;]/div[@class=&quot;DRS7Fe bxPAYd k6Zj8d&quot;]/div[@class=&quot;pwWryf bxPAYd&quot;]/div[@class=&quot;Wxwduf Us7fWe JhUD8d&quot;]/div[@class=&quot;zQJV3&quot;]/div[@class=&quot;dG5hZc&quot;]/div[@class=&quot;daaWTb&quot;]/div[@class=&quot;OIPlvf&quot;]/div[@class=&quot;VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd&quot;]/div[1]/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d qfvgSe FliLIb uRo0Xe TrZEUc t29vte VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d&quot;]/span[@class=&quot;VfPpkd-vQzf8d&quot;]</value>
+      <webElementGuid>293a66f0-b3ea-4db8-a85f-72a0dc9e568e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view_container']/div/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/button/span</value>
+      <webElementGuid>43416b84-3ce6-4589-800b-b70dc958f149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berikutnya'])[1]/following::span[1]</value>
+      <webElementGuid>2e7766ac-92be-48d9-8352-09f67e23601f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari lebih lanjut'])[1]/following::span[2]</value>
+      <webElementGuid>2873250f-49e1-4b19-b4d7-018e225f0c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Untuk diri sendiri'])[1]/preceding::span[3]</value>
+      <webElementGuid>378fa573-e58c-47aa-8f5a-f15c7b6c3830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Untuk anak saya'])[1]/preceding::span[5]</value>
+      <webElementGuid>f5d5ee0b-d039-4492-8f2a-231a3a63ff97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buat akun']/parent::*</value>
+      <webElementGuid>b34d7a10-efd5-44b5-a9b5-c43495e63e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div/div/div/button/span</value>
+      <webElementGuid>20396901-96aa-47e9-90de-18104571d0f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Buat akun' or . = 'Buat akun')]</value>
+      <webElementGuid>17df756d-0c3a-489b-a1a7-9b173087f5f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

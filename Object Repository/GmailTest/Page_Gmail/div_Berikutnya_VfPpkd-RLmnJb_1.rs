@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Berikutnya_VfPpkd-RLmnJb_1</name>
+   <tag></tag>
+   <elementGuidId>4c6b5495-8ac1-49b9-aed9-57d1ad762f93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view_container']/div/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/button/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.ksBjEc.lKxP2d.qfvgSe.FliLIb.uRo0Xe.TrZEUc.t29vte.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe.VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc.VfPpkd-ksKsZd-mWPk3d > div.VfPpkd-RLmnJb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4f5082cf-60ae-415f-aa7b-0423dcd3d6fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-RLmnJb</value>
+      <webElementGuid>8e282220-a4ce-414a-879f-078605b70677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view_container&quot;)/div[@class=&quot;zWl5kd&quot;]/div[@class=&quot;DRS7Fe bxPAYd k6Zj8d&quot;]/div[@class=&quot;pwWryf bxPAYd&quot;]/div[@class=&quot;Wxwduf Us7fWe JhUD8d&quot;]/div[@class=&quot;zQJV3&quot;]/div[@class=&quot;dG5hZc&quot;]/div[@class=&quot;daaWTb&quot;]/div[@class=&quot;OIPlvf&quot;]/div[@class=&quot;VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd&quot;]/div[1]/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d qfvgSe FliLIb uRo0Xe TrZEUc t29vte VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d&quot;]/div[@class=&quot;VfPpkd-RLmnJb&quot;]</value>
+      <webElementGuid>78b0c8e9-f5e8-49d5-a082-531963889466</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view_container']/div/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/button/div[3]</value>
+      <webElementGuid>30a60591-ba29-469a-ad00-58d11861f6bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div/div/div/button/div[3]</value>
+      <webElementGuid>dac9ce4e-5f78-4423-9a8e-755cb645365f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

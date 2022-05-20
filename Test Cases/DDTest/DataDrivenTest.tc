@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea32c75f-5cf0-4488-8760-8b2ae7089e3b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e0c64ca9-595a-4008-893d-975911724db1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>63dc3c7e-aaa4-41ea-9ba1-dcb292b1ea3d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>316252aa-4903-4070-af13-22691889389e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e0c64ca9-595a-4008-893d-975911724db1</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63dc3c7e-aaa4-41ea-9ba1-dcb292b1ea3d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>316252aa-4903-4070-af13-22691889389e</id>
+      <masked>false</masked>
+      <name>result</name>
+   </variable>
+</TestCaseEntity>

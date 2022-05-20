@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Daftar</name>
+   <tag></tag>
+   <elementGuidId>9d781665-6886-439d-9b46-1d5425b623ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.bl-button.bl-button--primary.bl-button--medium.bl-button--block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4109c15f-88a6-4ce9-8860-78de802e762f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-button bl-button--primary bl-button--medium bl-button--block</value>
+      <webElementGuid>764960d0-783c-4513-b3c2-abce2bed6341</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Daftar </value>
+      <webElementGuid>056d9872-b827-4312-98d8-f141e13c6040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container&quot;]/div[@class=&quot;ph-24 bl-card has-elevation-1 bl-card--outlined&quot;]/section[1]/div[@class=&quot;mv-24&quot;]/button[@class=&quot;bl-button bl-button--primary bl-button--medium bl-button--block&quot;]</value>
+      <webElementGuid>a717a7bb-672b-4de2-b82d-61a2284223cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor handphone atau email'])[1]/following::button[1]</value>
+      <webElementGuid>787911f8-9adb-4ba9-9bb0-596a8a5b075c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::button[1]</value>
+      <webElementGuid>85a6a3d5-7b1a-4763-8580-ae2dcb5d053b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>5a132b60-838e-4b6a-ab18-9a25b6e0a085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Daftar ' or . = ' Daftar ')]</value>
+      <webElementGuid>c520559e-bd9f-4067-808b-6ef934ce2788</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

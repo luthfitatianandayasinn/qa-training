@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login_bl-flex-item</name>
+   <tag></tag>
+   <elementGuidId>64daa8d3-5801-4542-ab33-afbdd9b10b23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TFAJS-1652931089456']/section/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>29d1bf4a-1f1a-4f58-8018-f0bf4b048ca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-flex-item</value>
+      <webElementGuid>a6203440-1e9a-4adf-ba1e-9c9e4c45ded8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TFAJS-1652931089456&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__header&quot;]/div[@class=&quot;bl-flex-container p-24 m-0 align-items-center&quot;]/div[@class=&quot;bl-flex-item&quot;]</value>
+      <webElementGuid>3506a6de-c5ce-43ee-9360-838c5d7da4ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TFAJS-1652931089456']/section/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>d70d2185-ab52-4076-ba82-b36366c405d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[12]</value>
+      <webElementGuid>9a447620-9958-43b4-840d-d818953afe7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/following::div[14]</value>
+      <webElementGuid>37e1a1cc-b5e5-495b-b28c-5c6ed88d9b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya, kirim kode'])[1]/preceding::div[6]</value>
+      <webElementGuid>471fb0c8-947c-404e-8dbb-bf55d4f2e120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bukan, ganti nomor'])[1]/preceding::div[6]</value>
+      <webElementGuid>6f536947-ce2f-4b80-9142-0e60ff049016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>67dbba5c-3d1a-4533-97c9-b1680c6b52c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

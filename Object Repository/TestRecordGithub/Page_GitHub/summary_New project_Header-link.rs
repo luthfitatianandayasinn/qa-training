@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>summary_New project_Header-link</name>
+   <tag></tag>
+   <elementGuidId>6dc0a049-5bf5-4191-ad31-eede3d0aaa05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>details.details-overlay.details-reset.js-feature-preview-indicator-container > summary.Header-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>summary</value>
+      <webElementGuid>2f1c6dfc-11ef-4e72-a62a-8492a562eb5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Header-link</value>
+      <webElementGuid>6525991d-d35a-4fbe-a70f-b8ec31d73aad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>View profile and more</value>
+      <webElementGuid>f8db0806-d7b8-4950-9426-b8953e59b98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-analytics-event</name>
+      <type>Main</type>
+      <value>{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}</value>
+      <webElementGuid>135988c3-fea1-4807-a34a-bf2999db0a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>679d4556-f09e-4ceb-936a-22c656b37e05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4204d22c-5283-4f62-a0c3-ed337b13dc99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;logged-in env-production page-responsive full-width intent-mouse&quot;]/div[@class=&quot;position-relative js-header-wrapper&quot;]/header[@class=&quot;Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap&quot;]/div[@class=&quot;Header-item position-relative mr-0 d-none d-md-flex&quot;]/details[@class=&quot;details-overlay details-reset js-feature-preview-indicator-container&quot;]/summary[@class=&quot;Header-link&quot;]</value>
+      <webElementGuid>9f965b65-6245-4497-a6e6-4ea05a2d1d6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New project'])[1]/following::summary[1]</value>
+      <webElementGuid>2dae58f8-a606-4aec-9cd9-b7e928fa90de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New organization'])[1]/following::summary[1]</value>
+      <webElementGuid>3656a7a2-ccbd-4cb9-8e61-d6c0050f476e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/preceding::summary[2]</value>
+      <webElementGuid>2583264d-37b1-4765-881f-c95c703193ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/details/summary</value>
+      <webElementGuid>4b711ed6-3f8a-4acf-b96f-7dc884f9bd0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

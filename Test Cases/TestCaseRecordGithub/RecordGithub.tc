@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RecordGithub</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e3a409b-b08a-49b2-af16-2e3f00dd5c27</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca7dc07e-ea07-43be-9d1a-3fd4a520aab9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f85918b3-0ca3-474a-b6e5-cb985830be7f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a4c5a94-6dd7-4883-a7a9-122c8a6c1926</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://github.com/'</defaultValue>
+      <description></description>
+      <id>ca7dc07e-ea07-43be-9d1a-3fd4a520aab9</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Luthfitatianandayasin@gmail.com'</defaultValue>
+      <description></description>
+      <id>f85918b3-0ca3-474a-b6e5-cb985830be7f</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Wk4UeWs85TxodDhrD6XgXHkx3fC/MWtp'</defaultValue>
+      <description></description>
+      <id>5a4c5a94-6dd7-4883-a7a9-122c8a6c1926</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

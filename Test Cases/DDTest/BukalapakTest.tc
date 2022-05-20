@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BukalapakTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7021a36-826a-41fd-8415-f1882bcdf84f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>45d32fcf-b0fb-4342-8846-b1ffb36c3327</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ccd382c4-6b9c-49f3-b33b-75f1c54244d1</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>93f5421b-c071-4c1a-bc52-fe4f3707da13</id>
+      <masked>false</masked>
+      <name>verifikasi</name>
+   </variable>
+</TestCaseEntity>

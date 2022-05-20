@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Selengkapnya</name>
+   <tag></tag>
+   <elementGuidId>dcaea75d-b7f4-46a0-b7e0-62024f7b6ee7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.promo-cta > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Selengkapnya')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>20c9d6ee-95ba-4457-83ea-30c43bbdc610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selengkapnya</value>
+      <webElementGuid>9a527d14-05bf-481e-a23c-38606569e119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;app&quot;]/div[@class=&quot;promos--wrapper&quot;]/div[@class=&quot;container my-5&quot;]/div[@class=&quot;promos&quot;]/div[@class=&quot;promo&quot;]/div[@class=&quot;promo-cta&quot;]/a[1]</value>
+      <webElementGuid>aa90d5ef-1368-4f3a-8228-676e6269ea07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Selengkapnya')]</value>
+      <webElementGuid>25b1a240-cbc2-43cb-80e5-0c6462a0cad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Kartu Perdana di Sini &amp; Pilih Bonusnya Sesukamu'])[1]/following::a[1]</value>
+      <webElementGuid>b904a61d-6ce3-4092-864a-a418ac2e267e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Promo'])[1]/following::a[1]</value>
+      <webElementGuid>62c003d4-8c92-4ff1-b05c-0fef0a1be71a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Kartu Perdana Bonus Cashback 30%'])[1]/preceding::a[1]</value>
+      <webElementGuid>e47d96be-cc4c-4c67-b0e5-b04cf5678f45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[2]/preceding::a[1]</value>
+      <webElementGuid>548f2464-e4b4-4100-bda1-c13d3d2309a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selengkapnya']/parent::*</value>
+      <webElementGuid>a7ff18a9-d795-47b7-ae8d-c84c2b8eee8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a</value>
+      <webElementGuid>748f85b3-39cc-440c-aa09-1bde1e6c9e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Selengkapnya' or . = 'Selengkapnya')]</value>
+      <webElementGuid>b464e766-0954-45c8-ae50-b73934d98624</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

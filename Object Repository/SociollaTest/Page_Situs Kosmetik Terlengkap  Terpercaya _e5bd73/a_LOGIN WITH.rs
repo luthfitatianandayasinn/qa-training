@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LOGIN WITH</name>
+   <tag></tag>
+   <elementGuidId>6c627bd4-d099-4e4d-8337-358dc105c331</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='quick-tour-0']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;LOGIN&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b7b9d502-0b12-45d3-9638-c84ade8ac0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>LOGIN</value>
+      <webElementGuid>8b426803-de19-46e8-ad6d-e4ee44049ccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> LOGIN WITH </value>
+      <webElementGuid>05572403-39f9-4c09-86c6-8bfd7feade4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;quick-tour-0&quot;)/a[1]</value>
+      <webElementGuid>b7ac96e5-f83e-41d5-8b61-a60cf44ebe74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='quick-tour-0']/a</value>
+      <webElementGuid>9da40138-5d4f-47a5-baaf-478cdaa131c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'LOGIN WITH')]</value>
+      <webElementGuid>896bc0c9-a7ab-4e84-b5a6-ddbc88aee388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU'])[1]/following::a[6]</value>
+      <webElementGuid>20a3e9f2-22b3-420b-a557-3d2eafc4406e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VN'])[1]/following::a[7]</value>
+      <webElementGuid>aba68ebf-7c2b-4768-948f-a711a42174d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MY BAG'])[1]/preceding::a[1]</value>
+      <webElementGuid>ddc1f990-531a-4169-a7e9-d83e83ec43b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/preceding::a[1]</value>
+      <webElementGuid>6725145b-68b0-4ace-9a5c-c1e9b6a484f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LOGIN WITH']/parent::*</value>
+      <webElementGuid>be8a94f3-9e80-4f64-a3f1-ffd1592069ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[17]</value>
+      <webElementGuid>ceefe199-0c4d-489c-aa50-22998fd52d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a</value>
+      <webElementGuid>903f39c6-5969-40aa-9d28-7d67643a46af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'LOGIN' and (text() = ' LOGIN WITH ' or . = ' LOGIN WITH ')]</value>
+      <webElementGuid>f3587b21-9fe0-44cd-b79a-5fb285ab7c56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

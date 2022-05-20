@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Untuk diri sendiri</name>
+   <tag></tag>
+   <elementGuidId>ba4b7328-b434-4697-9513-c9327fb4fba6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view_container']/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.G3hhxb.VfPpkd-StrnGf-rymPhb-ibnC6b.VfPpkd-ksKsZd-mWPk3d</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>76586f2c-d78e-40ad-8dba-5a124fd47a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>G3hhxb VfPpkd-StrnGf-rymPhb-ibnC6b VfPpkd-ksKsZd-mWPk3d</value>
+      <webElementGuid>14bad3b5-2602-4855-aa4a-40a87b55e283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsaction</name>
+      <type>Main</type>
+      <value>click:o6ZaF;keydown:RDtNu; keyup:JdS61c; focusin:MeMJlc; focusout:bkTmIf;mousedown:teoBgf; mouseup:NZPHBc; mouseenter:SKyDAe; mouseleave:xq3APb; touchstart:jJiBRc; touchmove:kZeBdd; touchend:VfAz8; change:uOgbud;</value>
+      <webElementGuid>bcd97954-9003-4c06-9d64-49c9f6a91e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>6fb16205-b41e-48a0-80f3-d8b166baf855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>RZzeR</value>
+      <webElementGuid>6980d449-f9d2-4786-baca-fff297ebd3c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>3652a8b6-d554-42c5-9cc5-3eaf4de61349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Untuk diri sendiri</value>
+      <webElementGuid>4b8e9091-3ad3-4ca1-9333-8fa6feac072c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view_container&quot;)/div[@class=&quot;zWl5kd&quot;]/div[@class=&quot;DRS7Fe bxPAYd k6Zj8d&quot;]/div[@class=&quot;pwWryf bxPAYd&quot;]/div[@class=&quot;Wxwduf Us7fWe JhUD8d&quot;]/div[@class=&quot;zQJV3&quot;]/div[@class=&quot;dG5hZc&quot;]/div[@class=&quot;daaWTb&quot;]/div[@class=&quot;OIPlvf&quot;]/div[@class=&quot;VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd&quot;]/div[2]/div[@class=&quot;VfPpkd-xl07Ob-XxIAqe VfPpkd-xl07Ob q6oraf P77izf ILYVD VfPpkd-xl07Ob-XxIAqe-OWXEXe-FNFY6c VfPpkd-xl07Ob-XxIAqe-OWXEXe-oT9UPb-xTMeO&quot;]/ul[@class=&quot;VfPpkd-StrnGf-rymPhb DMZ54e&quot;]/li[@class=&quot;G3hhxb VfPpkd-StrnGf-rymPhb-ibnC6b VfPpkd-ksKsZd-mWPk3d&quot;]</value>
+      <webElementGuid>4dc6d35b-b940-4c51-97ba-035c6f0af16f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view_container']/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/ul/li</value>
+      <webElementGuid>2670eef3-c35b-4cce-96ff-b9f8efb02bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buat akun'])[1]/following::li[1]</value>
+      <webElementGuid>3edb67d8-11f7-4f10-8702-c2fced42e14e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berikutnya'])[1]/following::li[1]</value>
+      <webElementGuid>e8bcffa6-6b44-4dcd-ab2f-08a33a5e56b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Untuk anak saya'])[1]/preceding::li[1]</value>
+      <webElementGuid>ef22a019-f72a-4ff2-b2bb-b7c5fa0f43e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>8d25194b-1cae-4a10-9bb6-ec8243a8166b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Untuk diri sendiri' or . = 'Untuk diri sendiri')]</value>
+      <webElementGuid>119ac182-6b40-4f68-8de3-a55fe9a5c047</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

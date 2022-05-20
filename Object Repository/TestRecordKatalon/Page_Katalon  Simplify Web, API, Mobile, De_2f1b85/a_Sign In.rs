@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign In</name>
+   <tag></tag>
+   <elementGuidId>97eeecea-f0ee-47cd-bb8f-617cd5cccc5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#hs-button_my_account</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='hs-button_my_account']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fec57c8b-af6b-40d7-b09f-83994baed7ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hs-button </value>
+      <webElementGuid>5e5d660c-dfee-458d-a51c-5e32472181a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sign-in</value>
+      <webElementGuid>fbb3f99a-84d7-4831-8728-c695848c7326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hs-button_my_account</value>
+      <webElementGuid>3e3a83b8-c485-47e2-a502-c55d38cfeabc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  Sign In
+</value>
+      <webElementGuid>7480d364-4fa2-4631-850c-024ebb916173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs-button_my_account&quot;)</value>
+      <webElementGuid>b272c29d-976c-436e-835d-5fd37176de34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='hs-button_my_account']</value>
+      <webElementGuid>6b897298-ffb6-4611-83a5-300e30cee0a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_my_account']/a</value>
+      <webElementGuid>92c1b404-3bbb-400d-87ac-374406178ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign In')]</value>
+      <webElementGuid>c2af16ac-2502-4d50-8330-1406043fb78e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start for Free'])[1]/following::a[1]</value>
+      <webElementGuid>591ffbce-2a0e-4d8f-805c-6fe8b1bc8086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[1]/following::a[2]</value>
+      <webElementGuid>f0f21d6c-6fc2-4645-87e8-04eb70fbc2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured Products'])[1]/preceding::a[3]</value>
+      <webElementGuid>28eacd61-a642-4f85-b9ef-e08879dce075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FEATURED PRODUCTS'])[2]/preceding::a[4]</value>
+      <webElementGuid>2ea755e9-dc0a-4841-aff5-1969db9b7a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>5a98cc66-4129-49a2-8a7e-00dea8fdb86d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/sign-in')]</value>
+      <webElementGuid>e9b1b963-8cb8-4af0-a0ac-44204b89e159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a</value>
+      <webElementGuid>bc1a35fb-6b36-46a5-bc6b-237becd9ccfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/sign-in' and @id = 'hs-button_my_account' and (text() = '
+  Sign In
+' or . = '
+  Sign In
+')]</value>
+      <webElementGuid>fa55b1b8-ebb9-4b55-87c1-679702bb4328</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

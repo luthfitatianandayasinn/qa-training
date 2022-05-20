@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Keluar</name>
+   <tag></tag>
+   <elementGuidId>e1cf6e13-3e99-4c42-bb8c-26fd919cdf37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Keluar')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.user-avatar > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3928224b-ba7a-454c-b502-599743caf7eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://berrybenka.com/logout</value>
+      <webElementGuid>38a8c0a1-fc1e-4d57-bfe0-c9279579c4dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Keluar</value>
+      <webElementGuid>be132c51-f6eb-456f-8c54-2eadca971476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;user-wrapper clearfix&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;user-wrap&quot;]/div[@class=&quot;user-menu left&quot;]/div[@class=&quot;user-avatar&quot;]/a[1]</value>
+      <webElementGuid>dc2e88fe-7c8f-4214-b2df-5a7e3526e0fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Keluar')]</value>
+      <webElementGuid>ef053718-5fce-43e3-ab6a-c24eebc5d4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Luthfita Tiananda Yasin'])[2]/following::a[1]</value>
+      <webElementGuid>9ce9566d-c7f3-478e-91fa-995ae97ffbc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pembayaran'])[1]/following::a[1]</value>
+      <webElementGuid>51347c87-dc68-4394-828b-0a88c261d28f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halaman Akun'])[1]/preceding::a[1]</value>
+      <webElementGuid>74198438-3ed9-4267-9505-13a7f627f383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[1]/preceding::a[2]</value>
+      <webElementGuid>5b8da035-9420-428c-bfd0-6c963d51c1a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Keluar']/parent::*</value>
+      <webElementGuid>789ca0be-e6c2-4672-9b73-ab26eddf3cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://berrybenka.com/logout')]</value>
+      <webElementGuid>8c2c68f0-5871-4160-b9a6-18daf6b3de1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a</value>
+      <webElementGuid>cf69f751-5bda-407a-aa7d-55a3ede24c4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://berrybenka.com/logout' and (text() = 'Keluar' or . = 'Keluar')]</value>
+      <webElementGuid>0e266448-4154-4137-b793-7913521e3f12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

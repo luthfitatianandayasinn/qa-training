@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ScriptModeBerrybenka</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>011a22d7-2d6c-4c6d-8648-d2ce0acfe716</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be772fb8-2c2e-4b6a-8a82-e0af497ec3fc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d0e162e0-5c30-4f0e-8fec-29e8c00e0940</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e8be135-3661-4da0-97a4-a897bc62b317</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.berrybenka.com/\r\n'</defaultValue>
+      <description></description>
+      <id>be772fb8-2c2e-4b6a-8a82-e0af497ec3fc</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Luthfitatianandayasin@gmail.com\r\n'</defaultValue>
+      <description></description>
+      <id>d0e162e0-5c30-4f0e-8fec-29e8c00e0940</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'aTuQeF6FLWYewMiJz1MJvA=='</defaultValue>
+      <description></description>
+      <id>1e8be135-3661-4da0-97a4-a897bc62b317</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Luthfita TianandaYasin</name>
+   <tag></tag>
+   <elementGuidId>3f41296b-b1b6-4874-a231-b57e0e2714cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-uppercase.profile-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='quick-tour-0']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>21cb8603-c739-4e23-9270-36f1560b9317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-uppercase profile-name</value>
+      <webElementGuid>a81156e9-d7db-402c-bc2a-0afbf1094a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Luthfita TianandaYasin </value>
+      <webElementGuid>261ecc08-79a6-48e6-9a5e-123407ffe73a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;quick-tour-0&quot;)/span[@class=&quot;text-uppercase profile-name&quot;]</value>
+      <webElementGuid>ee365d72-23a3-4893-8417-f196915e195a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='quick-tour-0']/span</value>
+      <webElementGuid>52dbb6d2-7d09-4c10-88aa-af0432d933e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU'])[1]/following::span[1]</value>
+      <webElementGuid>8921bd92-ae0e-498a-8aaf-f07b75d8d80a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VN'])[1]/following::span[2]</value>
+      <webElementGuid>d610bc35-7657-43b0-be71-03cef92c20eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@Luthfita'])[1]/preceding::span[1]</value>
+      <webElementGuid>b8df1764-40c6-43a5-bfdf-4e336041a077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>60dbfe9b-59a2-4fc6-9659-3d89b9d512ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Luthfita TianandaYasin ' or . = 'Luthfita TianandaYasin ')]</value>
+      <webElementGuid>23340792-55d6-4e71-9484-ad007928312a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
